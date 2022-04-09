@@ -4,16 +4,16 @@
 
 ### Home Screen
 
-![Alt](./public/home1.jpg “Home Screen Preview 1”)
+![Alt text](./public/home1.jpg?raw=true 'Home Screen Preview 1')
 
-![Alt](./public/home2.jpg “Home Screen Preview 2”)
+![Alt text](./public/home2.jpg?raw=true 'Home Screen Preview 2')
 
-![Alt](./public/home3.jpg “Home Screen Preview 3”)
+![Alt text](./public/home3.jpg?raw=true 'Home Screen Preview 3')
 
 ### Search Any NFT
 
-![Alt](./public/search.jpg “Search Preview”)
+![Alt text](./public/search.jpg?raw=true 'Search Preview')
 
 ### Details Screen
 
-![Alt](./public/detail.jpg “Details Screen Preview”)
+![Alt text](./public/detail.jpg?raw=true 'Details Screen Preview')
